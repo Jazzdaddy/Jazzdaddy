@@ -1,4 +1,5 @@
-# Hi there 👋
+## Hi, I'm Jesse 👋
+# I am a 
 
 <!--
 **Jazzdaddy/Jazzdaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

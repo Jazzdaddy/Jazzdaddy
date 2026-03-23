@@ -6,6 +6,7 @@ My Research Interests include:
 - Numerical Modeling of PDE's
 - Scientific Computing
 - Machine Learning/Deep Learning
+- Optimal Transport
 
 <!--
 **Jazzdaddy/Jazzdaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

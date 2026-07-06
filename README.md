@@ -1,5 +1,5 @@
 # Hi, I'm Jesse 👋
-I am a second year Mathematics PhD Student at the University of South Carolina
+I am a third year Mathematics PhD Student at the University of South Carolina
 
 My Research Interests include:
 - Model Order Reduction
